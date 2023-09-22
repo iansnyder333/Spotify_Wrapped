@@ -1,4 +1,6 @@
-# Spotify Wrapped Implementation 
+# Spotify Wrapped Implementation (indev)
+
+
 
 A project to explore spotify streaming data and implement my own Spotift Wrapped.
 
